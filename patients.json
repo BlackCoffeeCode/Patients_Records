@@ -1,0 +1,52 @@
+{
+  "SAMPLE001": {
+    "name": "Sample Patient 001",
+    "city": "Example City",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 62.0,
+    "bmi": 22.77,
+    "verdict": "Normal"
+  },
+  "SAMPLE002": {
+    "name": "Sample Patient 002",
+    "city": "Example City",
+    "age": 35,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 78.0,
+    "bmi": 25.47,
+    "verdict": "Overweight"
+  },
+  "SAMPLE003": {
+    "name": "Sample Patient 003",
+    "city": "Example City",
+    "age": 22,
+    "gender": "female",
+    "height": 1.60,
+    "weight": 54.0,
+    "bmi": 21.09,
+    "verdict": "Normal"
+  },
+  "SAMPLE004": {
+    "name": "Sample Patient 004",
+    "city": "Example City",
+    "age": 40,
+    "gender": "male",
+    "height": 1.80,
+    "weight": 95.0,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  "SAMPLE005": {
+    "name": "Sample Patient 005",
+    "city": "Example City",
+    "age": 30,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 60.0,
+    "bmi": 24.97,
+    "verdict": "Normal"
+  }
+}
